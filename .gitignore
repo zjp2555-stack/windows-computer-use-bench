@@ -1,0 +1,31 @@
+# 密钥与环境（不入库）
+.env
+*.env
+
+# 分享类文档（本地保留，不入库）
+out/feishu-share-draft.md
+out/zcode-experience-report-full.md
+
+# Python 运行时与缓存
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node 运行时
+node_modules/
+
+# 本地运行痕迹与大体积原始证据（本地保留）
+typesafe-computer-use-windows/runs/
+typesafe-computer-use-windows/.git.bak/
+
+# 安全扫描插件台账
+.mimosa/
+
+# ZCode 本地生成文件
+.zcodeignore
+
+# ZCode 会话产物（混合路由技能保留入库）
+.zcode/plans/
+.zcode/workflow-drafts/
+.zcode/workflow-runs/

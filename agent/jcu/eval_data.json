@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d01",
+    "lang": "zh",
+    "state": "屏幕上有一个对话框：\"是否保存对 Untitled 的更改？\"，按钮：保存 / 不保存 / 取消。用户想放弃修改直接关闭。",
+    "question": "应点击哪个按钮？",
+    "options": ["保存", "不保存", "取消"],
+    "answer": "不保存"
+  },
+  {
+    "id": "d02",
+    "lang": "zh",
+    "state": "记事本当前打开的文件是 notes_old.txt 且已保存在磁盘上。用户在正文里新输入了内容，想存成一个新文件、保持 notes_old.txt 原样不变。界面上有按钮：新建 / 保存 / 另存为 / 打印。",
+    "question": "下一步应点击哪个按钮？",
+    "options": ["新建", "保存", "另存为", "打印"],
+    "answer": "另存为"
+  },
+  {
+    "id": "d03",
+    "lang": "zh",
+    "state": "设置页面有一个开关：\"蓝牙\"，当前状态为开。用户想关闭蓝牙。页面上还有：Wi-Fi 开关、飞行模式开关、恢复默认按钮。",
+    "question": "应对哪个控件操作？",
+    "options": ["点击蓝牙开关", "点击 Wi-Fi 开关", "点击飞行模式开关", "点击恢复默认"],
+    "answer": "点击蓝牙开关"
+  },
+  {
+    "id": "d04",
+    "lang": "zh",
+    "state": "文件另存为对话框已打开，文件名输入框为空，对话框按钮：保存 / 取消。用户要把文件存为 \"notes.txt\"。",
+    "question": "下一步动作是什么？",
+    "options": ["在文件名输入框输入 notes.txt 然后点保存", "直接点保存", "点取消", "关闭对话框"],
+    "answer": "在文件名输入框输入 notes.txt 然后点保存"
+  },
+  {
+    "id": "d05",
+    "lang": "zh",
+    "state": "表单包含：姓名输入框（空）、邮箱输入框（空）、提交按钮、重置按钮。用户已填完姓名，正在填邮箱。",
+    "question": "当前应聚焦哪个控件？",
+    "options": ["姓名输入框", "邮箱输入框", "提交按钮", "重置按钮"],
+    "answer": "邮箱输入框"
+  },
+  {
+    "id": "d06",
+    "lang": "zh",
+    "state": "浏览器弹窗提示\"要显示多个通知吗？\"，按钮：阻止 / 允许。用户不想被通知打扰。",
+    "question": "应点击哪个按钮？",
+    "options": ["阻止", "允许"],
+    "answer": "阻止"
+  },
+  {
+    "id": "d07",
+    "lang": "en",
+    "state": "A dialog reads \"There are unsaved changes. Discard them?\" with buttons: Keep Editing / Discard / Cancel. The user wants to throw the changes away.",
+    "question": "Which button should be clicked?",
+    "options": ["Keep Editing", "Discard", "Cancel"],
+    "answer": "Discard"
+  },
+  {
+    "id": "d08",
+    "lang": "en",
+    "state": "A form has fields Email (filled), Password (empty), and buttons Sign In / Forgot Password / Sign Up. The user is trying to log in.",
+    "question": "Which control should be focused next?",
+    "options": ["Email field", "Password field", "Sign In button", "Forgot Password link"],
+    "answer": "Password field"
+  },
+  {
+    "id": "d09",
+    "lang": "en",
+    "state": "A download is stuck at 3% with buttons: Pause / Resume / Cancel. The user wants to restart it because it appears frozen.",
+    "question": "Which button should be clicked first?",
+    "options": ["Pause", "Resume", "Cancel"],
+    "answer": "Cancel"
+  },
+  {
+    "id": "d10",
+    "lang": "en",
+    "state": "A search box is empty, next to a magnifier button and a voice button. The user wants to find files named 'report'.",
+    "question": "What is the next action?",
+    "options": ["Type 'report' into the search box then press the magnifier button", "Click the voice button", "Click the magnifier button", "Clear the search box"],
+    "answer": "Type 'report' into the search box then press the magnifier button"
+  },
+  {
+    "id": "d11",
+    "lang": "en",
+    "state": "A list shows 50 files sorted by name. The user wants the most recently modified one and there is a 'Sort by date modified' menu item.",
+    "question": "What should be done first?",
+    "options": ["Scroll through all 50 files", "Click 'Sort by date modified'", "Search for the file", "Rename the first file"],
+    "answer": "Click 'Sort by date modified'"
+  },
+  {
+    "id": "d12",
+    "lang": "zh",
+    "state": "任务：删除桌面上的临时文件 temp_old.txt。界面元素：@e1 [Button] \"是\"，@e2 [Button] \"否\"，对话框文字\"要永久删除此文件吗？\"。",
+    "question": "应点击哪个元素？",
+    "options": ["点击 @e1", "点击 @e2", "关闭对话框", "无动作"],
+    "answer": "点击 @e1"
+  }
+]

@@ -1,0 +1,5 @@
+{"utc":"2026-09-28T10:38:55.6126858Z","family":"dynamic","seed":2,"kind":"refresh","value":"requested"}
+{"utc":"2026-09-28T10:38:57.6449583Z","family":"dynamic","seed":2,"kind":"dynamic-choice","value":"Blue channel"}
+{"utc":"2026-09-28T10:38:59.3133467Z","family":"dynamic","seed":2,"kind":"submit","value":"dynamic"}
+{"utc":"2026-09-28T10:39:02.9972214Z","family":"dynamic","seed":2,"kind":"dynamic-choice","value":"Blue channel"}
+{"utc":"2026-09-28T10:39:06.7958520Z","family":"dynamic","seed":2,"kind":"dynamic-choice","value":"Blue channel"}

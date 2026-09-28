@@ -1,0 +1,4 @@
+{"utc":"2026-09-28T10:59:52.8352669Z","family":"recovery","seed":2,"kind":"start","value":"safe update"}
+{"utc":"2026-09-28T10:59:54.2431190Z","family":"recovery","seed":2,"kind":"dialog","value":"OK"}
+{"utc":"2026-09-28T10:59:56.3375364Z","family":"recovery","seed":2,"kind":"package","value":"Current package B"}
+{"utc":"2026-09-28T10:59:58.4326843Z","family":"recovery","seed":2,"kind":"submit","value":"recovery"}

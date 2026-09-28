@@ -1,0 +1,3 @@
+{"utc":"2026-09-28T10:53:29.9508443Z","family":"dynamic","seed":2,"kind":"refresh","value":"requested"}
+{"utc":"2026-09-28T10:53:31.3000903Z","family":"dynamic","seed":2,"kind":"dynamic-choice","value":"Blue channel"}
+{"utc":"2026-09-28T10:53:31.6333789Z","family":"dynamic","seed":2,"kind":"submit","value":"dynamic"}
